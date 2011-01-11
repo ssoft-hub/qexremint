@@ -1,0 +1,7 @@
+This is example of interprocess signal-slot coupling through QTcpSocket.
+To see a sample it is necessary several times to run the application sliders.
+Moving the slider in the first instance of the application it will be move sliders in all other instances.
+
+Пример межпроцессного сигнал-слот взаимодействия через QTcpSocket.
+Для просмотра примера необходимо несколько раз запустить приложение sliders.
+Перемещая ползунок в первом экземпляре приложения, также будут перемещаться ползунки и во всех остальных экземплярах.

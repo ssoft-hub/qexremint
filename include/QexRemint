@@ -1,0 +1,7 @@
+#include "QexDeviceHelper.h"
+#include "QexMetaTranslator.h"
+#include "QexMethodTranslator.h"
+#include "QexPropertyTranslator.h"
+#include "QexRemintReader.h"
+#include "QexSignalSlotTranslator.h"
+
