@@ -15,6 +15,8 @@
 #ifndef QEX_REMINT_CONFIG_H
 #define QEX_REMINT_CONFIG_H
 
+#include "stable.h"
+
 #	if defined WIN32 || defined WINCE
 #		ifdef QEX_REMINT_LIB
 #			define QEX_REMINT_EXPORT __declspec( dllexport )
