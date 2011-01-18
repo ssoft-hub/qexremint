@@ -1,4 +1,5 @@
 #ifndef QEX_DEVICE_HELPER_H
+#define QEX_DEVICE_HELPER_H
 
 #include "QexRemintReader.h"
 
