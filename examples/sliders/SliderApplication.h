@@ -1,6 +1,8 @@
 #ifndef QEX_EXAMPLE_APPLICATION_H
 #define QEX_EXAMPLE_APPLICATION_H
 
+#include "SliderConfig.h"
+
 class SliderApplication : public QApplication
 {
 	Q_OBJECT
